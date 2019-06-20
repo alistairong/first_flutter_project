@@ -1,5 +1,5 @@
 import 'package:flutter_web/material.dart';
-import 'package:hello_world/widget/button_row.dart';
+import 'package:hello_world/widgets/button_row.dart';
 
 class SmallBody extends StatelessWidget {
   const SmallBody({Key key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'package:flutter_web/material.dart';
 import 'package:flutter_web/widgets.dart';
-import 'package:hello_world/widget/page_body.dart';
-import 'package:hello_world/widget/page_small_body.dart';
+import 'package:hello_world/widgets/page_body.dart';
+import 'package:hello_world/widgets/page_small_body.dart';
 import './button_row.dart';
 import './responsive_layout.dart';
 
